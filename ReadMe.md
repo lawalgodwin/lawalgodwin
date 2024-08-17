@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAGItAZB1zQ/0tPFGoyLk0z_4n0nJq0faQ/view?utm_content=DAGItAZB1zQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![banner](https://github.com/lawalgodwin/lawalgodwin/blob/main/LinkedIn%20banner.png)
 
 # 💫 About Me:
 
