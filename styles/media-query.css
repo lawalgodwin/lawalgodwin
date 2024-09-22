@@ -15,10 +15,12 @@
     padding: 0.2rem;
   }
   .hero {
-    padding-top: 2rem;
+    padding: 1.2rem;
+    padding-top: 1.5rem;
   }
   .hero h1 {
     font-size: large;
+    padding-bottom: 1.1rem;
   }
   main {
     grid-template-columns: 1fr;
@@ -35,7 +37,7 @@
   .education ul,
   .review ul,
   .open-source ul {
-    text-align: center;
+    text-align: left;
   }
   .cta {
     padding: 0.7em;
